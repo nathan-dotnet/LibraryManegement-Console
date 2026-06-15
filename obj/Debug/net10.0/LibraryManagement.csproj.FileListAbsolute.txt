@@ -12,3 +12,4 @@ C:\Users\nathaniel-lucero\desktop\practice\LibraryManagement\obj\Debug\net10.0\r
 C:\Users\nathaniel-lucero\desktop\practice\LibraryManagement\obj\Debug\net10.0\LibraryManagement.pdb
 C:\Users\nathaniel-lucero\desktop\practice\LibraryManagement\obj\Debug\net10.0\LibraryManagement.genruntimeconfig.cache
 C:\Users\nathaniel-lucero\desktop\practice\LibraryManagement\obj\Debug\net10.0\ref\LibraryManagement.dll
+C:\Users\nathaniel-lucero\Desktop\practice\LibraryManagement\obj\Debug\net10.0\LibraryManagement.sourcelink.json
